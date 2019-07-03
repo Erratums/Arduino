@@ -6,7 +6,7 @@
 * [Buy from Amazon](https://www.amazon.in/s?me=A3HAGIAPX2OISQ)
 
 ## Arduino Based Boards   
-[![ESP8266 Core](https://github.com/Erratums/ESP8266/blob/master/images/esp8266.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=86)     [![Wemos D1 Mini](https://github.com/Erratums/ESP8266/blob/master/images/wemos-d1-mini.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=59)     [![NodeMCU](https://github.com/Erratums/ESP8266/blob/master/images/nodemcu.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=87)      
+[![Mega Pro MIni](https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=71)     [![Arduino Uno](https://github.com/Erratums/Arduino/blob/master/images/arduino_uno.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=77)     [![Arduino Nano](https://github.com/Erratums/Arduino/blob/master/images/arduino_nano.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=72)      
 > Click on image to buy online
 
 ## Learn more about Arduino based modules/shields    
