@@ -6,6 +6,15 @@
 * [Buy from Amazon](https://www.amazon.in/s?me=A3HAGIAPX2OISQ)
 
 ## Arduino Based Boards   
+<table>
+  <tr>
+    <th><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=71"><img src="https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png"/></a></th>
+  </tr>
+  
+  <tr>
+    <th><b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=71">store</a>, <a href="https://www.amazon.in/dp/B07PFNC7XK?m=A3HAGIAPX2OISQ">Amazon</a></th>
+  </tr>
+</table>
 ||||
 |-|-|-|
 |[![Mega Pro MIni](https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=71)|[![Arduino Uno](https://github.com/Erratums/Arduino/blob/master/images/arduino_uno.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=77)|[![Arduino Nano](https://github.com/Erratums/Arduino/blob/master/images/arduino_nano.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=72)|
