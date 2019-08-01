@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+**Arduino** is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the [Arduino programming language](https://www.arduino.cc/reference/en/) (based on Wiring), and the [Arduino Software (IDE)](https://www.arduino.cc/en/Main/Software), based on Processing. 
+[Learn more](https://www.arduino.cc/en/Guide/Introduction)
 
-You can use the [editor on GitHub](https://github.com/Erratums/Arduino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Buy Online Now
+* [Buy from our store](https://erratums.com/ocart2/)
+* [Buy from Amazon](https://www.amazon.in/s?me=A3HAGIAPX2OISQ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Arduino Based Boards   
+||||
+|-|-|-|
+|[![Mega Pro MIni](https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=71)|[![Arduino Uno](https://github.com/Erratums/Arduino/blob/master/images/arduino_uno.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=77)|[![Arduino Nano](https://github.com/Erratums/Arduino/blob/master/images/arduino_nano.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=72)|
+|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=71), [Amazon](https://www.amazon.in/dp/B07PFNC7XK?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=77), [Amazon](https://www.amazon.in/dp/B07QJVSF61?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=72), [Amazon](https://www.amazon.in/dp/B07PK2BTLQ?m=A3HAGIAPX2OISQ)|
 
-### Markdown
+## Learn more about Arduino based modules/shields
+||||
+|-|-|-| 
+|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_wifi_shield.png)](https://github.com/Erratums/ESP8266/wiki/ESP8266-WiFi-Shield-for-Arduino)|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_battery_shield.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=84)|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_relay_shield.png)](https://github.com/Erratums/Arduino/wiki/Arduino-4-ch-Relay-Shield)|
+|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=83), [Amazon](https://www.amazon.in/dp/B07SKJP6YS?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=84), [Amazon](https://www.amazon.in/dp/B07SMPBNCG?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=85), [Amazon](https://www.amazon.in/dp/B07SGHY4LH?m=A3HAGIAPX2OISQ)|         
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Erratums/Arduino/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other Related Modules         
+|||
+|-|-|
+|[![](https://github.com/Erratums/Arduino/blob/master/images/fpm10a.png)](https://github.com/Erratums/Arduino/wiki/How-to-use-FPM10A-Fingerprint-Sensor)|[![](https://github.com/Erratums/Arduino/blob/master/images/2.8-tft-display-1.png)]()|
+|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=92), [Amazon](https://www.amazon.in/dp/B07VD144QN?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=93), [Amazon](https://www.amazon.in/dp/B07VYKB4QM?m=A3HAGIAPX2OISQ)|
