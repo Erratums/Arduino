@@ -8,7 +8,7 @@
 ## Arduino Based Boards   
 <table>
   <tr>
-    <th><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=71"><img src="https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png"/></a></th>
+    <th><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=71"><img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/arduino_mega_pro_mini.png"/></a></th>
   </tr>
   
   <tr>
