@@ -1,0 +1,18 @@
+*Arduino* is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the [[https://www.arduino.cc/reference/en/][Arduino programming language]] (based on Wiring), and the [[https://www.arduino.cc/en/Main/Software][Arduino Software (IDE)]], based on Processing. 
+[[https://www.arduino.cc/en/Guide/Introduction][Learn more]]
+
+** Buy Online Now     
+ * [[https://erratums.com/ocart2/][Buy from our store]]
+ * [[https://www.amazon.in/s?me=A3HAGIAPX2OISQ][Buy from Amazon]]
+
+** Arduino Based Boards   
+|[[https://erratums.com/ocart2/index.php?route=product/product&product_id=71][https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png]]|[[https://erratums.com/ocart2/index.php?route=product/product&product_id=77][https://github.com/Erratums/Arduino/blob/master/images/arduino_uno.png]]|[[https://erratums.com/ocart2/index.php?route=product/product&product_id=72][https://github.com/Erratums/Arduino/blob/master/images/arduino_nano.png]]|
+| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=71][store]], [[https://www.amazon.in/dp/B07PFNC7XK?m=A3HAGIAPX2OISQ][Amazon]]| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=77][store]], [[https://www.amazon.in/dp/B07QJVSF61?m=A3HAGIAPX2OISQ][Amazon]]| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=72][store]], [[https://www.amazon.in/dp/B07PK2BTLQ?m=A3HAGIAPX2OISQ][Amazon]]|
+
+** Learn more about Arduino based modules/shields
+|[[https://github.com/Erratums/ESP8266/wiki/ESP8266-WiFi-Shield-for-Arduino][https://github.com/Erratums/Arduino/blob/master/images/arduino_wifi_shield.png]]|[[https://erratums.com/ocart2/index.php?route=product/product&product_id=84][https://github.com/Erratums/Arduino/blob/master/images/arduino_battery_shield.png]]|[[https://github.com/Erratums/Arduino/wiki/Arduino-4-ch-Relay-Shield][https://github.com/Erratums/Arduino/blob/master/images/arduino_relay_shield.png]]|
+| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=83][store]], [[https://www.amazon.in/dp/B07SKJP6YS?m=A3HAGIAPX2OISQ][Amazon]]| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=84][store]], [[https://www.amazon.in/dp/B07SMPBNCG?m=A3HAGIAPX2OISQ][Amazon]]| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=85][store]], [[https://www.amazon.in/dp/B07SGHY4LH?m=A3HAGIAPX2OISQ][Amazon]]|         
+
+** Other Related Modules         
+|[[https://github.com/Erratums/Arduino/wiki/How-to-use-FPM10A-Fingerprint-Sensor][https://github.com/Erratums/Arduino/blob/master/images/fpm10a.png]]|[[https://github.com/Erratums/Arduino/wiki/2.8-Inch-TFT-Display-Shield][https://github.com/Erratums/Arduino/blob/master/images/2.8-tft-display-1.png]]
+| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=92][store]], [[https://www.amazon.in/dp/B07VD144QN?m=A3HAGIAPX2OISQ][Amazon]]| *Buy from* [[https://erratums.com/ocart2/index.php?route=product/product&product_id=93][store]], [[https://www.amazon.in/dp/B07VYKB4QM?m=A3HAGIAPX2OISQ][Amazon]]|
