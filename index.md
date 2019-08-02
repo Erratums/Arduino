@@ -70,7 +70,25 @@
 </table>
 
 ## Other Related Modules         
-|||
-|-|-|
-|[![](https://github.com/Erratums/Arduino/blob/master/images/fpm10a.png)](https://github.com/Erratums/Arduino/wiki/How-to-use-FPM10A-Fingerprint-Sensor)|[![](https://github.com/Erratums/Arduino/blob/master/images/2.8-tft-display-1.png)]()|
-|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=92), [Amazon](https://www.amazon.in/dp/B07VD144QN?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=93), [Amazon](https://www.amazon.in/dp/B07VYKB4QM?m=A3HAGIAPX2OISQ)|
+<table>
+  <tr>
+    <th>
+	  <a href="https://github.com/Erratums/Arduino/wiki/How-to-use-FPM10A-Fingerprint-Sensor">
+	    <img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/fpm10a.png"/>
+	  </a>
+	</th>
+    <th>
+	  <a href="https://github.com/Erratums/Arduino/wiki/2.8-Inch-TFT-Display-Shield">
+	    <img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/2.8-tft-display-1.png"/>
+	  </a>
+	</th>
+  </tr>
+  <tr>
+    <th>
+      <b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=92">store</a>, <a href="https://www.amazon.in/dp/B07VD144QN?m=A3HAGIAPX2OISQ">Amazon</a>
+    </th>
+    <th>
+      <b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=93">store</a>, <a href="https://www.amazon.in/dp/B07VYKB4QM?m=A3HAGIAPX2OISQ">Amazon</a>
+    </th>
+  </tr>
+</table>
