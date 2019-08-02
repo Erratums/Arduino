@@ -38,10 +38,36 @@
 </table>     
 
 ## Learn more about Arduino based modules/shields
-||||
-|-|-|-| 
-|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_wifi_shield.png)](https://github.com/Erratums/ESP8266/wiki/ESP8266-WiFi-Shield-for-Arduino)|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_battery_shield.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=84)|[![](https://github.com/Erratums/Arduino/blob/master/images/arduino_relay_shield.png)](https://github.com/Erratums/Arduino/wiki/Arduino-4-ch-Relay-Shield)|
-|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=83), [Amazon](https://www.amazon.in/dp/B07SKJP6YS?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=84), [Amazon](https://www.amazon.in/dp/B07SMPBNCG?m=A3HAGIAPX2OISQ)|**Buy from** [store](https://erratums.com/ocart2/index.php?route=product/product&product_id=85), [Amazon](https://www.amazon.in/dp/B07SGHY4LH?m=A3HAGIAPX2OISQ)|         
+<table>
+  <tr>
+    <th>
+	  <a href="https://github.com/Erratums/ESP8266/wiki/ESP8266-WiFi-Shield-for-Arduino">
+	    <img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/arduino_wifi_shield.png"/>
+	  </a>
+	</th>
+    <th>
+	  <a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=84">
+	    <img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/arduino_battery_shield.png"/>
+	  </a>
+	</th>
+    <th>
+	  <a href="https://github.com/Erratums/Arduino/wiki/Arduino-4-ch-Relay-Shield">
+	    <img src="https://raw.githubusercontent.com/Erratums/Arduino/master/images/arduino_relay_shield.png"/>
+	  </a>
+	</th>
+  </tr>
+  <tr>
+    <th>
+      <b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=83">store</a>, <a href="https://www.amazon.in/dp/B07SKJP6YS?m=A3HAGIAPX2OISQ">Amazon</a>
+    </th>
+    <th>
+      <b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=84">store</a>, <a href="https://www.amazon.in/dp/B07SMPBNCG?m=A3HAGIAPX2OISQ">Amazon</a>
+    </th>
+    <th>
+      <b>Buy from </b><a href="https://erratums.com/ocart2/index.php?route=product/product&product_id=85">store</a>, <a href="https://www.amazon.in/dp/B07SGHY4LH?m=A3HAGIAPX2OISQ">Amazon</a>
+    </th>
+  </tr>
+</table>
 
 ## Other Related Modules         
 |||
