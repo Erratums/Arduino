@@ -5,7 +5,7 @@
 
 ## Buy Online Now
 * [Buy from our store](https://erratums.com/ocart2/)
-* [Buy from Amazon](https://www.amazon.in/s?me=A3HAGIAPX2OISQ)
+* [Buy from Amazon](https://amazon.in/erratumsolutions)
 
 ## Arduino Based Boards   
 [![Mega Pro MIni](https://github.com/Erratums/Arduino/blob/master/images/arduino_mega_pro_mini.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=71)     [![Arduino Uno](https://github.com/Erratums/Arduino/blob/master/images/arduino_uno.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=77)     [![Arduino Nano](https://github.com/Erratums/Arduino/blob/master/images/arduino_nano.png)](https://erratums.com/ocart2/index.php?route=product/product&product_id=72)      
