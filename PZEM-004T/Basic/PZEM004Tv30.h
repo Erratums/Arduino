@@ -11,7 +11,7 @@
 #endif
 
 // #define PZEM004_NO_SWSERIAL
-#if (not defined(PZEM004_NO_SWSERIAL)) && (defined(__AVR__) || defined(ESP8266))
+#if (not defined(PZEM004_NO_SWSERIAL)) && (defined(__AVR__) || defined(ESP8266) && (not defined(ESP32)))
 #define PZEM004_SOFTSERIAL
 #endif
 
@@ -19,12 +19,16 @@
 #include <SoftwareSerial.h>
 #endif
 
+
 #define PZEM_DEFAULT_ADDR    0xF8
+
 
 class PZEM004Tv30
 {
 public:
+#if defined(PZEM004_SOFTSERIAL)
     PZEM004Tv30(uint8_t receivePin, uint8_t transmitPin, uint8_t addr=PZEM_DEFAULT_ADDR);
+#endif
     PZEM004Tv30(HardwareSerial* port, uint8_t addr=PZEM_DEFAULT_ADDR);
     ~PZEM004Tv30();
 
@@ -44,6 +48,8 @@ public:
     bool getPowerAlarm();
 
     bool resetEnergy();
+
+    void search();
 
 private:
 
@@ -71,7 +77,7 @@ private:
     bool updateValues();    // Get most up to date values from device registers and cache them
     uint16_t recieve(uint8_t *resp, uint16_t len); // Receive len bytes into a buffer
 
-    bool sendCmd8(uint8_t cmd, uint16_t rAddr, uint16_t val, bool check=false); // Send 8 byte command
+    bool sendCmd8(uint8_t cmd, uint16_t rAddr, uint16_t val, bool check=false, uint16_t slave_addr=0xFFFF); // Send 8 byte command
 
     void setCRC(uint8_t *buf, uint16_t len);           // Set the CRC for a buffer
     bool checkCRC(const uint8_t *buf, uint16_t len);   // Check CRC of buffer
