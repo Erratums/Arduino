@@ -9,7 +9,7 @@
 
 #include <Adafruit_Fingerprint.h>
 
-SoftwareSerial serialFinger(2, 3);
+SoftwareSerial serialFinger(12, 13);
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&serialFinger);
 
 void setup() {
