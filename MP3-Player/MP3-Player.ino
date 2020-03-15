@@ -1,22 +1,18 @@
-/***********************************************************/
-// Demo for the Serial MP3 Player Catalex (YX5300 chip)
-// Hardware: Serial MP3 Player *1
-// Board:  Arduino UNO
-// http://www.dx.com/p/uart-control-serial-mp3-music-player-module-for-arduino-avr-arm-pic-blue-silver-342439#.VfHyobPh5z0
-//
-//
-//
 
-
-// Uncomment SoftwareSerial for Arduino Uno or Nano.
-
+/*
+ * MP3 Player (YX5300 chip) Sample
+ * Developed by Erratum Solutions
+ * Contact us @ support@erratums.com
+ * https://erratums.com
+ * Date created: 27-Jan-2020
+ */
+ 
 #include <SoftwareSerial.h>
 
 #define ARDUINO_RX 5  //should connect to TX of the Serial MP3 Player module
 #define ARDUINO_TX 6  //connect to RX of the module
 
 SoftwareSerial mp3(ARDUINO_RX, ARDUINO_TX);
-//#define mp3 Serial3    // Connect the MP3 Serial Player to the Arduino MEGA Serial3 (14 TX3 -> RX, 15 RX3 -> TX)
 
 static int8_t Send_buf[8] = {0}; // Buffer for Send commands.  // BETTER LOCALLY
 static uint8_t ansbuf[10] = {0}; // Buffer for the answers.    // BETTER LOCALLY
