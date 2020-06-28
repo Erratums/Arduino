@@ -7,25 +7,32 @@
  * Date created: 18-April-2020
  */
 
-const byte cPUMP_PIN = 5;
-const byte cECHO_PIN = 6; // Echo Pin of Ultrasonic Sensor
-const byte cPING_PIN = 7; // Trigger Pin of Ultrasonic Sensor
-const byte cBUZZER_PIN = 9; // Connect your buzzer here 
+#include <Servo.h> 
+
+const byte cSERVO_PIN   = 3; // Use this for servo motor 
+const byte cPUMP_PIN    = 5; // Use this for water pump
+const byte cECHO_PIN    = 6; // Echo Pin of Ultrasonic Sensor
+const byte cPING_PIN    = 7; // Trigger Pin of Ultrasonic Sensor
+const byte cBUZZER_PIN  = 9; // Connect your buzzer here 
 
 long lFoundObject;
 bool bFoundObject;
+
+Servo servoMain;
 
 void setup() {
   Serial.begin(9600); // Starting Serial Terminal
 
   lFoundObject = 0;
   bFoundObject = false;
-  
+
+  servoMain.attach(cSERVO_PIN);
   pinMode(cECHO_PIN, INPUT);
   pinMode(cPUMP_PIN, OUTPUT);
   pinMode(cPING_PIN, OUTPUT);
   pinMode(cBUZZER_PIN, OUTPUT);
 
+  servoMain.write(0);
   digitalWrite(cPUMP_PIN, LOW);
 }
 
@@ -36,8 +43,10 @@ void loop() {
 
     Serial.println(F("Object Found"));
     tone(cBUZZER_PIN, 1000);
+    servoMain.write(180);
     digitalWrite(cPUMP_PIN, HIGH);
-    delay(100); // Wait for 0.5 sec { Ajmal }    
+    delay(500); // Wait for 0.5 sec { Ajmal }    
+    servoMain.write(0);
     digitalWrite(cPUMP_PIN, LOW);
     noTone(cBUZZER_PIN);
     delay(2000);
